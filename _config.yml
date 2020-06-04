@@ -34,22 +34,22 @@ theme: minima
 plugins:
   - jekyll-feed
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      permalink: :title
-  -
-    scope:
-      path: "./_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Justin Kratz"
-      permalink: :title
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
+#       permalink: :title
+#   -
+#     scope:
+#       path: "./_posts"
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       author: "Justin Kratz"
+#       permalink: :title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
