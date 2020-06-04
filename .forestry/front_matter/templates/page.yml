@@ -15,4 +15,5 @@ fields:
   label: permalink
   hidden: false
 pages:
+- test-2.md
 - test.md
