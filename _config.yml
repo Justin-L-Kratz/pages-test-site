@@ -34,6 +34,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+disqus:
+  - shortname: https://https-justin-l-kratz-github-io-pages-test-site.disqus.com 
+
 # defaults:
 #   -
 #     scope:
